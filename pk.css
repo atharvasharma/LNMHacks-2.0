@@ -201,4 +201,15 @@ html,body{font-family:"Helvetica","Arial",sans-serif;font-size:14px;font-weight:
 		}
 	}
 }
+.reach-us{
+	margin-left: 10% !important;
+	margin-right: 10% !important;
+}
+.icons{
+	padding-top: 2vh;
+	color:#17a2b8;
+}
 
+.contact-content{
+	color:#949699;
+}
